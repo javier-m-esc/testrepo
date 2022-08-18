@@ -1,2 +1,2 @@
 # testrepo
-this is a test ofa new repository
+this is a test of a new repository
